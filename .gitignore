@@ -1,0 +1,15 @@
+# ML pipeline
+ml/data/
+ml/runs/
+ml/.venv/
+__pycache__/
+*.pyc
+
+# Trained model: produced by ml/, not committed (large binary; track releases separately).
+app/assets/models/*
+!app/assets/models/.gitkeep
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

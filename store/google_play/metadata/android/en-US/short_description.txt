@@ -1,0 +1,1 @@
+Point the camera at a face for an instant AI gender estimate. Fully offline.

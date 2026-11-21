@@ -1,0 +1,14 @@
+GenderLens is a fun, private AI camera. Point it at a face and it shows, in real time, whether the face looks male or female, and how sure the model is.
+
+PRIVATE BY DESIGN
+• Everything runs on your phone. No images, results or identifiers are saved or uploaded.
+• No account, no ads, no analytics, no internet access.
+
+THOUGHTFUL AI
+• Trained on FairFace, a public dataset balanced across ethnicities, ages and genders, and tested for consistent accuracy across groups.
+• Shows "Not sure" instead of guessing when confidence is low.
+• Smooths results over several frames, so the label doesn't flicker.
+• Detects several faces at once, with front and back cameras.
+
+PLEASE NOTE
+GenderLens estimates appearance only. It can be wrong, and it says nothing about anyone's gender identity. It's for entertainment: only scan people who are happy to be scanned, and never use it to judge or make decisions about anyone.

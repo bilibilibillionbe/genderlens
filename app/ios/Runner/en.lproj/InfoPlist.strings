@@ -1,0 +1,2 @@
+"CFBundleDisplayName" = "GenderLens";
+"NSCameraUsageDescription" = "GenderLens uses the camera to detect faces and estimate their apparent gender. Images are processed only on this device and are never saved or uploaded.";

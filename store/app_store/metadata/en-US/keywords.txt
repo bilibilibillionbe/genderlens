@@ -1,0 +1,1 @@
+face,scan,AI,camera,gender,detector,estimate,fun,offline,privacy,lens

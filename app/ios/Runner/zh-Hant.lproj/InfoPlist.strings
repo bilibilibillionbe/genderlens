@@ -1,0 +1,2 @@
+"CFBundleDisplayName" = "性別識鏡";
+"NSCameraUsageDescription" = "性別識鏡需要使用相機偵測人臉並估計其外貌性別。畫面只在本機處理，不會被儲存或上傳。";

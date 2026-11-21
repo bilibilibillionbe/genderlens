@@ -1,0 +1,1 @@
+Point your camera at a face and see an instant AI estimate. 100% on-device: nothing is saved or uploaded.

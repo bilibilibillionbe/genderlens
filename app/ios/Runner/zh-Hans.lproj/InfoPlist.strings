@@ -1,0 +1,2 @@
+"CFBundleDisplayName" = "性别识镜";
+"NSCameraUsageDescription" = "性别识镜需要使用摄像头检测人脸并估计其外貌性别。画面只在本机处理，不会被保存或上传。";

@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "name": "genderlens-gender-classifier",
+  "version": "2026.11.21",
+  "release_ready": false,
+  "input": {
+    "width": 224,
+    "height": 224,
+    "channels": 3,
+    "order": "RGB",
+    "range": [
+      0.0,
+      255.0
+    ]
+  },
+  "output": {
+    "type": "softmax",
+    "labels": [
+      "female",
+      "male"
+    ]
+  },
+  "face_crop_scale": 1.5,
+  "uncertain_below": 0.7,
+  "quantization": "float16",
+  "sha256": "83b2f5c78f4382b19570d47c183286e4be76fcb125230a40e36756f66100e25e",
+  "training_data": "FairFace (CC BY 4.0), https://github.com/joojs/fairface"
+}
